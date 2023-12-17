@@ -1,0 +1,74 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 677px;
+
+}
+.login{
+    width:421px;
+    height: 421px;
+    border: 1px solid black; border-radius: 20px;
+}
+.logo h2 {
+    display: inline;
+}
+
+.logo {
+    background: transparent;
+}
+.create a {
+    color: #fff;
+}
+.logo h2 {
+    margin-left: 177px;
+}
+
+.logo {
+    height: 41px;
+}
+input#p {
+    margin-left: 61px;
+    margin-top: 31px;
+    width: 295px;
+    height: 48px;
+    border-radius: 22px;
+    background: whitesmoke;
+    box-shadow: 0px 3px 0px 2px;
+}
+.btn {
+    margin-top: 63px;
+    margin-left: ;
+}
+button {
+    width: 421px;
+    height: 57px;
+    border-style: none;
+    BACKGROUND: #00CAF1;
+}
+.create {
+    margin-left: 237px;
+    margin-top: 21px;
+}
+
+.create a {text-decoration: none;font-size: 16px;font-weight: 600;}
+a {margin-left: -80px;}
+.img img {
+    position: relative;
+    width: 284%;
+    left: -586px;
+    top: -32px;
+}
+.login {
+    position: relative;
+    z-index: 1;
+    left: 169px;
+}
+@media (max-width:990px;) {
+    .login {
+        position: relative;
+        width: 50px; 
+        left: 169px;
+    }
+    
+}
